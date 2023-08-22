@@ -23,3 +23,7 @@ B - bag
 C - character/profile screen
 
 ESC = exit game
+
+## Credits
+- Menu Music: Heroic Demise by Matthew Pablo (https://opengameart.org/content/heroic-demise-updated-version)
+- Game Music: Magical Theme by remaxim (https://opengameart.org/content/magical-theme)https://opengameart.org/content/magical-theme)
